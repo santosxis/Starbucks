@@ -20,7 +20,11 @@ Uma réplica moderna e responsiva da página inicial da Starbucks, desenvolvida 
 
 ## 📸 Demonstração
 
-![Demonstrativo](./assets/demo.mp4)
+
+
+https://github.com/user-attachments/assets/c7b24fac-5a1e-4e31-b62e-2fb0a42fcdf2
+
+
 
 ---
 
