@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Starbucks Turbo</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="assets/fav-stbk.png" type="image/x-icon">
+</head>
+
+<body>
+    <div class="circle"></div>
+    <header>
+        <div class="header-wrapper">
+            <img class="logo" src="assets/logo.png" alt="logo">
+
+        </div>
+    </header>
+
+    <main class="container">
+        <section class="box-left">
+            <h1 class="title">Não é apenas café,<br><span>é Starbucks.</span></h1>
+            <p class="paragrafo">Mais do que uma bebida, é uma experiência. A Starbucks transforma o simples ato de
+                tomar café em um momento especial, com sabores únicos, ambiente acolhedor e um toque de exclusividade em
+                cada xícara.</p>
+            <button class="btn-sm">Saiba Mais</button>
+        </section>
+
+        <section class="box-right">
+            <img class="copo" src="assets/img1.png" alt="Copo Starbucks">
+        </section>
+    </main>
+
+    <section class="box-center">
+        <img class="thumb" src="assets/thumb1.png" onclick="trocaImagem('assets/img1.png'); trocaCor('#017143')"
+            alt="thumb 1">
+        <img class="thumb" src="assets/thumb2.png" onclick="trocaImagem('assets/img2.png'); trocaCor('#eb7495')"
+            alt="thumb 2">
+        <img class="thumb" src="assets/thumb3.png" onclick="trocaImagem('assets/img3.png'); trocaCor('#d752b1')"
+            alt="thumb 3">
+    </section>
+
+    <script src="script.js"></script>
