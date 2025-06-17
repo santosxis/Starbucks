@@ -14,7 +14,7 @@ Uma réplica moderna e responsiva da página inicial da Starbucks, desenvolvida 
 - Animações suaves no copo e nos botões
 - Design fiel ao estilo Starbucks
 - Troca de produtos ao clicar nas miniaturas
-- HTML5 + CSS3 puro
+- HTML5, CSS3 e JavaScript puro
 
 ---
 
@@ -32,6 +32,7 @@ https://github.com/user-attachments/assets/c7b24fac-5a1e-4e31-b62e-2fb0a42fcdf2
 
 - HTML5
 - CSS3
+- JavaScript 
 - Google Fonts (Montserrat, Roboto, Merienda etc.)
 - Flexbox e Media Queries
 
